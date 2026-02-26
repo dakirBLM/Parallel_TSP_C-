@@ -98,18 +98,7 @@ const unsigned int D[N][N] = {
 - **Research**: Baseline for TSP algorithm comparisons
 - **Learning**: Practical threading and synchronization examples
 
-## 🔄 Future Enhancements
 
-- [ ] Implement branch-and-bound optimization
-- [ ] Add support for larger problem instances
-- [ ] Integrate genetic algorithm approach
-- [ ] Create graphical visualization
-- [ ] Add performance profiling tools
-- [ ] Support for asymmetric distance matrices
-
-## 📝 License
-
-This project is open source and available under the MIT License.
 
 ## 🤝 Contributing
 
@@ -117,4 +106,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-*Built with ❤️ for parallel computing enthusiasts*# Parallel_TSP_C-
